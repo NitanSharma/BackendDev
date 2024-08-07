@@ -23,5 +23,7 @@ const movieSchema = new mongoose.Schema({
     {name : "Fight Club", year : 1999 , rating : 9.2}
  ])
 
+ 
+
 
 
